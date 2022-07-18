@@ -5,8 +5,8 @@ Hp
 Mi
 Samsung
 Acer
-Macbook
-Asus
+Macbook-very High Rate
+Asus-Very Low rate
 
 
 Thankyou
