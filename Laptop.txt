@@ -1,0 +1,8 @@
+Lenevo
+Dell
+Hp
+Mi
+Samsung
+Acer
+Macbook
+Asus
